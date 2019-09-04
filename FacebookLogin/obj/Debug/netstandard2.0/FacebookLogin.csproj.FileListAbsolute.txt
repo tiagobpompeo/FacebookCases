@@ -1,0 +1,12 @@
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/bin/Debug/netstandard2.0/FacebookLogin.deps.json
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/bin/Debug/netstandard2.0/FacebookLogin.dll
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/bin/Debug/netstandard2.0/FacebookLogin.pdb
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/View/RegisterView.xaml.g.cs
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/FacebookLogin.csproj.CoreCompileInputs.cache
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/FacebookLogin.AssemblyInfoInputs.cache
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/FacebookLogin.AssemblyInfo.cs
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/FacebookLogin.dll
+/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/Debug/netstandard2.0/FacebookLogin.pdb

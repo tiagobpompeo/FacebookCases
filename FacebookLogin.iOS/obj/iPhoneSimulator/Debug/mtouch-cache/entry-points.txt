@@ -1,0 +1,1357 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKDeviceLoginCodeInfo
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKDeviceLoginManager
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKDeviceLoginManagerResult
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+Field=FBSDKLoginAuthTypeRerequest
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+Field=FBSDKLoginAuthTypeReauthorize
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+Field=FBSDKLoginErrorDomain
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginButton
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginManager
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginManagerLoginResult
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginTooltipView
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKTooltipView
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKSettings
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenDidChangeNotification
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenDidExpireKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenChangeNewKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenChangeOldKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenDidChangeUserIDKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAccessToken
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAchievedLevel
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAddedPaymentInfo
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAddedToCart
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAddedToWishlist
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameCompletedRegistration
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameCompletedTutorial
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameInitiatedCheckout
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNamePurchased
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameRated
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSearched
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSpentCredits
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameUnlockedAchievement
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameViewedContent
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameContact
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameCustomizeProduct
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameDonate
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameFindLocation
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSchedule
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSubscriptionHeartbeat
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameStartTrial
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSubmitApplication
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSubscribe
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAdImpression
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAdClick
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameContent
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameContentID
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameContentType
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameCurrency
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameDescription
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameLevel
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameMaxRatingValue
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameNumItems
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNamePaymentInfoAvailable
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameRegistrationMethod
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameSearchString
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameSuccess
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameAdType
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameOrderID
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel0
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel1
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel2
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel3
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel4
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIOSUrl
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIOSAppStoreID
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIOSAppName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPhoneUrl
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPhoneAppStoreID
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPhoneAppName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPadUrl
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPadAppStoreID
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPadAppName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkAndroidUrl
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkAndroidPackage
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkAndroidAppName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkWindowsPhoneUrl
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkWindowsPhoneAppID
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkWindowsPhoneAppName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterValueYes
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterValueNo
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventsLoggingResultNotification
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventsOverrideAppIDBundleKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppEvents
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventEmail
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventFirstName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventLastName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventPhone
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventDateOfBirth
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventGender
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventCity
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventState
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventZip
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventCountry
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKApplicationDelegate
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkVersion
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLink
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkNavigation
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkResolver
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkReturnToRefererController
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkReturnToRefererView
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkTarget
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkUtility
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKBasicUtility
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKButton
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorArgumentCollectionKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorArgumentNameKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorArgumentValueKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorDeveloperMessageKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorDomain
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorLocalizedDescriptionKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorLocalizedTitleKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphErrorRecoveryProcessor
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphRequest
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKNonJSONResponseProperty
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphRequestConnection
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphRequestDataAttachment
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorGraphErrorCodeKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorGraphErrorSubcodeKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorHTTPStatusCodeKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorParsedJSONResponseKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKHTTPMethodGET
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKHTTPMethodPOST
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKHTTPMethodDELETE
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorAccessTokens
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorPerformanceCharacteristics
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorAppEvents
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorInformational
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorCacheErrors
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorUIControlErrors
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorGraphAPIDebugWarning
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorGraphAPIDebugInfo
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorNetworkRequests
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorDeveloperErrors
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkNavigateBackToReferrerEventName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkNavigateInEventName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkNavigateOutEventName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkParseEventName
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKMeasurementEventArgsKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKMeasurementEventNameKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKMeasurementEventNotification
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKMeasurementEvent
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKProfileDidChangeNotification
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKProfileChangeNewKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKProfileChangeOldKey
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKProfile
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKProfilePictureView
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKTestUsersManager
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKURL
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKUtility
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKWebViewAppLinkResolver
+	/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/FacebookLogin.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/FacebookLogin.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/FacebookLogin.iOS.csproj",
+        "projectName": "FacebookLogin.iOS",
+        "projectPath": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/FacebookLogin.iOS.csproj",
+        "packagesPath": "/Users/tiagobernaiaspompeo/.nuget/packages/",
+        "outputPath": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/tiagobernaiaspompeo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "http://nuget.grapecity.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/FacebookLogin.csproj": {
+                "projectPath": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/FacebookLogin.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "Xam.Plugins.Forms.ImageCircle": {
+              "target": "Package",
+              "version": "[3.0.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Facebook.iOS": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/FacebookLogin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/FacebookLogin.csproj",
+        "projectName": "FacebookLogin",
+        "projectPath": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/FacebookLogin.csproj",
+        "packagesPath": "/Users/tiagobernaiaspompeo/.nuget/packages/",
+        "outputPath": "/Users/tiagobernaiaspompeo/Projects/FacebookCases/FacebookLogin/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tiagobernaiaspompeo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://nuget.grapecity.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugins.Forms.ImageCircle": {
+              "target": "Package",
+              "version": "[3.0.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
